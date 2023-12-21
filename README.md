@@ -27,8 +27,3 @@ Ensure you have the following dependencies installed:
 
 - Python 3.x
 - Jupyter Notebooks (optional but recommended)
-
-Install the required Python packages using:
-
-```bash
-pip install -r requirements.txt
